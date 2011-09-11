@@ -1,3 +1,10 @@
+nop
+nop
+nop
+nop
+nop
+nop
+nop
 mov ah, 25h
 mov al, 47
 int 80h
